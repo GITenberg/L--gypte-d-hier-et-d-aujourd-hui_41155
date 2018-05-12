@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41010'
     url: http://www.gutenberg.org/2009/agents/41010
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41155#L--gypte-d-hier-et-d-aujourd-hui
 gutenberg_bookshelf:
 - FR Voyages et pays
 - FR Illustrateurs
